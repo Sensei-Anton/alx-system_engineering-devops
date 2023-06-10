@@ -1,2 +1,2 @@
 #!/bin/bash
-cp ./copy_html_files
+cp *.hmtl . .. 
